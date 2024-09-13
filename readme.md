@@ -24,9 +24,6 @@
 
 # Career Pulse Tracker - Your Job Tracking Assistant
 
-Advertisement - Redirects Page
-[![Watch the video](https://img.youtube.com/vi/VAieiJGv9_Q/maxresdefault.jpg)](https://youtu.be/VAieiJGv9_Q)
-
 CareerPulse Tracker
 
 Are you tired of managing your job applications and projects using cumbersome Excel spreadsheets? Our job and project tracker application is here to simplify the process and make it stress-free.
